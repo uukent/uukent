@@ -133,8 +133,6 @@ Open waiting room starting at 15 minutes until service
 Recorder join by 5 minutes until service
 
 
-Worship Talent Details
-
 ### Projector Details
 *Windows-based Technical Details*
 
