@@ -149,7 +149,7 @@ The main scene will be used to capture the slide display window and output the v
 
 The main portion of the scene will be a Window Capture source. Define the Window Capture source to capture the browser window that displays the service slides.
 
-![OBS Window Source](../blob/master/OBSWindowSource.png?raw=true)
+![OBS Window Source](OBSWindowSource.png?raw=true)
 
 If the resolution of the virtual camera exceeds that of the window capture you can add an appropriately themed and licensed background (Creative Commons preferred) image source to the scene, ordered to be behind the window capture source.
 
