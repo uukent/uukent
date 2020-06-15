@@ -149,6 +149,7 @@ The main scene will be used to capture the slide display window and output the v
 
 The main portion of the scene will be a Window Capture source. Define the Window Capture source to capture the browser window that displays the service slides.
 
+![OBS Window Source](../blob/master/OBSWindowSource.png?raw=true)
 
 If the resolution of the virtual camera exceeds that of the window capture you can add an appropriately themed and licensed background (Creative Commons preferred) image source to the scene, ordered to be behind the window capture source.
 
@@ -179,6 +180,7 @@ As the Zoom Host roll, prep for service by:
 * Disable “Suppress Persistent Background Noise”
 * Disable “Suppress Intermittent Background Noise”
 * Set “Echo cancellation” to “Auto”
+  ![Zoom Audio Settings](../blob/master/ZoomAudio.png?raw=true)
 * Select “Turn on original sound” so that played back audio is left in original state (essential for playback of content that Hal mastered)
 
 #### During Service
@@ -187,6 +189,8 @@ During service, advance the slides in time with the service. When spotlighted en
 When projecting slides, have the presenter notes turned on so that you can see previous and next slide previews in the notes window.
 
 When there is embedded audio content or embedded video with audio content (such as virtual choir performances) share the Projector audio by going to Share Screen -> Advanced -> Music or Computer Sound Only
+
+![Zoom Share Audio](../blob/master/ZoomShareAudio.png/raw=true)
 
 #### Greeting Rooms
 For greeting breakout rooms, prepare the rooms by setting the number of breakout rooms such that there will be between 2 and 4 attendees per room. As the number of attendees increases during the initial portions of the service, adjust the number of breakout rooms accordingly. 
